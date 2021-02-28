@@ -1,0 +1,10 @@
+.statsTitle {
+  margin: 50px 20px 20px 20px;
+}
+
+.statsItem {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
